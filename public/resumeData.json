@@ -2,10 +2,9 @@
   "main": {
     "name": "Lauren",
     "occupation": "Senior Systems Engineer",
-    "description": "With a passion for the outdoors.",
+    "description": "With a passion for the outdoors",
     "image": "profilepic.jpg",
     "contactmessage": "Let's connect.",
-    "email": "youremailhere@gmail.com",
     "address": {
       "city": "PNW"
     },
