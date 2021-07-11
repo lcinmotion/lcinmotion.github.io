@@ -1,0 +1,31 @@
+{
+  "main": {
+    "name": "Lauren",
+    "occupation": "Senior Systems Engineer",
+    "description": "With a passion for the outdoors.",
+    "image": "profilepic.jpg",
+    "contactmessage": "Let's connect.",
+    "email": "youremailhere@gmail.com",
+    "address": {
+      "city": "PNW"
+    },
+    "website": "http://lcinmoton.github.io",
+    "social": [
+      {
+        "name": "VSCO",
+        "url": "https://vsco.co/lcinmotion/gallery",
+        "className": "fa fa-camera"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/lcinmotion",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "email",
+        "url": "mailto:pedalbikemedia@gmail.com",
+        "className": "fa fa-envelope"
+      }
+    ]
+  }
+}
