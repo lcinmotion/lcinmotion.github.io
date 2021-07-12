@@ -1,10 +1,9 @@
 {
   "main": {
     "name": "Lauren",
-    "occupation": "Senior Systems Engineer",
+    "occupation": "Software Engineer",
     "description": "With a passion for the outdoors",
     "image": "profilepic.jpg",
-    "contactmessage": "Let's connect.",
     "address": {
       "city": "PNW"
     },
@@ -19,6 +18,11 @@
         "name": "github",
         "url": "http://github.com/lcinmotion",
         "className": "fa fa-github"
+      },
+      {
+        "name": "reddit",
+        "url": "https://www.reddit.com/user/lcinmotion",
+        "className": "fa fa-reddit"
       },
       {
         "name": "email",
