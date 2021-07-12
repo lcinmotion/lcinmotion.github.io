@@ -70,7 +70,7 @@
       font: 12px 'opensans-bold', sans-serif;
       background: transparent !important;
       letter-spacing: 1.5px;  
-      width: auto;
+      width: 415px;
       position: fixed;
       top: 0;
       right: 0;
@@ -79,14 +79,12 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
 		position: relative;
       border: none;
       float: right;
 
       font: 0/0 a;
       text-shadow: none;
-      color: transparent;
 
       position: relative;
       top: 0px;
@@ -96,7 +94,7 @@
 	#nav-wrap > a:before,
    #nav-wrap > a:after {
 	   position: absolute;
-		border: 2px solid #fff;
+		border: 2px solid #e0c3af;
 		top: 35%;
 		left: 25%;
 		right: 25%;
@@ -220,7 +218,9 @@
      	margin-bottom: 6px;    	
       width: 100%;
    }
-   #contact button.submit { margin: 30px 0 24px 0; }
+   #contact button.submit { 
+      margin: 30px 0 24px 115px;
+   }
    #message-warning, #message-success {
       width: 100%;
       margin-left: 0;

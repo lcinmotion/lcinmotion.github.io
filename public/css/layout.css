@@ -55,6 +55,7 @@ header .banner-text h1 {
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 1px rgba(124, 124, 124, 0.8);
+   background-color: rgba(235, 235, 235, 0.4);
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
