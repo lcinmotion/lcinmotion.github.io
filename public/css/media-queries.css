@@ -70,7 +70,7 @@
       font: 12px 'opensans-bold', sans-serif;
       background: transparent !important;
       letter-spacing: 1.5px;  
-      width: 415px;
+      width: auto;
       position: fixed;
       top: 0;
       right: 0;
@@ -85,6 +85,7 @@
 
       font: 0/0 a;
       text-shadow: none;
+      color: transparent;
 
       position: relative;
       top: 0px;
@@ -219,7 +220,7 @@
       width: 100%;
    }
    #contact button.submit { 
-      margin: 30px 0 24px 115px;
+      margin: 30px 0 24px 114px;
    }
    #message-warning, #message-success {
       width: 100%;
@@ -272,14 +273,14 @@
    }
   
    /* header social links */
-   header .social { font-size: 20px;}
+   header .social { font-size: 24px;}
    header .social li { margin: 0 6px; }
 
    /* footer
    ------------------------------------------------------------------------ */
 
    /* social links */
-   footer .social-links { font-size: 20px; }
+   footer .social-links { font-size: 24px; }
    footer .social-links li { margin-left: 14px; }   
 
 }
