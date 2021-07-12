@@ -51,22 +51,22 @@ header .banner {
 header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
-   color: rgb(44, 6, 6);
+   color: #b34708;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
-   text-shadow: 0px 1px 1px rgba(180, 180, 180, 0.8);
+   text-shadow: 0px 1px 1px rgba(124, 124, 124, 0.8);
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #1f1919;
+   color: #ffffff;
    margin: 0 auto;
    width: 70%;
-   text-shadow: 1px 1px 1px rgba(167, 167, 167, 0.5);
+   text-shadow: 1px 1px 1px rgb(104, 104, 104);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: rgb(207, 207, 207);
-   text-shadow: 0px 1px 1px rgba(0, 0, 0, .5);
+   color: #c2c2c2;
+   text-shadow: 0px 1px 1px #0f0f0f;
 }
 header .banner-text hr {
    width: 60%;
@@ -413,7 +413,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: #a30404;
 	font-size: 13px;
 }
 #message-warning, #message-success {

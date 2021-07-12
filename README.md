@@ -1,3 +1,3 @@
 # personal-site
 
-https://lcinmotion.github.io
+https://lcinmotion.com
