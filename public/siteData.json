@@ -2,7 +2,7 @@
   "main": {
     "name": "Lauren",
     "occupation": "Software Engineer",
-    "description": "With a passion for the outdoors",
+    "description": "with a passion for the outdoors",
     "image": "profilepic.jpg",
     "address": {
       "city": "PNW"
