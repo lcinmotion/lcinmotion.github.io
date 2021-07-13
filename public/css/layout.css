@@ -44,12 +44,12 @@ header .banner-text h3 {
    color: #ffffff;
    margin: 0 auto;
    width: 70%;
-   text-shadow: 1px 1px 1px rgb(104, 104, 104);
+   text-shadow: 1px 1px 1px rgb(61, 61, 61);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
    color: #c2c2c2;
-   text-shadow: 0px 1px 1px #0f0f0f;
+   text-shadow: 1px 1px 1px #030303;
 }
 header .banner-text hr {
    width: 60%;
