@@ -93,7 +93,6 @@ table {
 /* ------------------------------------------------------------------ */
 
 /* Basic */
-
 *,
 *:before,
 *:after {
@@ -115,12 +114,11 @@ body {
    line-height: 30px;
 	color: #838C95;
 
-   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+   -webkit-font-smoothing: antialiased;
 	-webkit-text-size-adjust: 100%;
 }
 
 /* Typography */
-
 h1, h2, h3, h4, h5, h6 {
    color: #313131;
 	font-family: 'opensans-bold', sans-serif;
@@ -236,7 +234,6 @@ hr { border: solid #E3E3E3; border-width: 1px 0 0; clear: both; margin: 11px 0 3
 
 
 /* Links */
-
 a, a:visited {
    text-decoration: none;
    outline: 0;
@@ -252,7 +249,6 @@ p a, p a:visited { line-height: inherit; }
 
 
 /* List */
-
 ul, ol { margin-bottom: 24px; margin-top: 12px; }
 ul { list-style: none outside; }
 ol { list-style: decimal; }
@@ -389,7 +385,6 @@ dd { margin: 0 0 0 20px; }
 .pagination .prev, .pagination .next {}
 
 /* Images */
-
 img {
    max-width: 100%;
    height: auto;
@@ -398,7 +393,6 @@ img.pull-right { margin: 12px 0px 0px 18px; }
 img.pull-left { margin: 12px 18px 0px 0px; }
 
 /* Buttons */
-
 .button,
 .button:visited,
 button,
@@ -466,7 +460,6 @@ input::-moz-focus-inner {
 
 
 /* Forms */
-
 form { margin-bottom: 24px; }
 fieldset { margin-bottom: 24px; }
 
@@ -689,7 +682,6 @@ input[type="checkbox"] { display: inline; }
 }
 
 /* Misc */
-
 .cf:before,
 .cf:after {
     content: " ";
