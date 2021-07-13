@@ -4,20 +4,19 @@ class Contact extends Component {
   render() {
 
     if(this.props.data){
-      var message = this.props.data.contactmessage;
     }
 
     return (
       <section id="contact">
 
-         <div className="row section-head">
-            <div className="two columns header-col">
-               <h1><span>Get In Touch.</span></h1>
+         <div className="outer">
+         <div id="inner">
+               <h1>Get In Touch.</h1>
             </div>
          </div>
 
-         <div className="row">
-            <div className="eight columns">
+         <div className="outer">
+            <div className="inner">
 
                <form action="" method="post" id="contactForm" name="contactForm">
 					<fieldset>
@@ -43,7 +42,7 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                     <button className="submit">Submit</button>
+                     <button className="submit inner">Submit</button>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>
