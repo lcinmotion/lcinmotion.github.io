@@ -173,7 +173,7 @@ ul#nav li.current a { color: #a30404; }
 }
 .flexslider .slides { zoom: 1; }
 .flexslider .slides > li { position: relative; }
-.flexslider .slides > li { display: none; -webkit-backface-visibility: hidden; }
+.flexslider .slides > li { display: none; -webkit-backface-visibility: hidden; backface-visibility: hidden; }
 .flex-container { zoom: 1; position: relative; }
 
 /* Clearfix for .slides */
