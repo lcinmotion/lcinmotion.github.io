@@ -15,14 +15,14 @@
         "className": "fa fa-camera"
       },
       {
+        "name": "pinkbike",
+        "url": "https://www.pinkbike.com/u/lcinmotion/",
+        "className": "fa fa-bicycle"
+      },
+      {
         "name": "github",
         "url": "http://github.com/lcinmotion",
         "className": "fa fa-github"
-      },
-      {
-        "name": "reddit",
-        "url": "https://www.reddit.com/user/lcinmotion",
-        "className": "fa fa-reddit"
       },
       {
         "name": "email",
