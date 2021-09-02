@@ -234,7 +234,7 @@ ul#nav li.current a { color: #a30404; }
 
 
 /* Contact */
-#contact {
+/* #contact {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
@@ -281,11 +281,11 @@ ul#nav li.current a { color: #a30404; }
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
 }
-#contact .header-col { padding-top: 6px; }
+#contact .header-col { padding-top: 6px; } */
 
 
 /* contact form */
-#contact form { 
+/* #contact form { 
    margin-bottom: 18px;
    display: inline-block;
    vertical-align: middle;
@@ -368,7 +368,7 @@ ul#nav li.current a { color: #a30404; }
    position: relative;
    left: 18px;
    top: 17px;
-}
+} */
 
 
 /* Footer */

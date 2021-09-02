@@ -33,13 +33,13 @@
       letter-spacing: 1.5px;
    }
 
-   /* Contact Section */
+   /* Contact Section
    #contact .section-head { margin-bottom: 30px; }
    #contact .header-col h1:before {
       font-size: 66px;
       line-height: 66px;
    }
-   #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
+   #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; } */
 
 
 }
@@ -160,6 +160,7 @@
    header .scrolldown { display: none; }
 
    /* contact */
+   /*
    #contact { padding-bottom: 66px; }
    #contact .section-head { margin-bottom: 12px; }
    #contact .section-head h1 {
@@ -182,9 +183,10 @@
       width:100%;
       display: flex;
       justify-content: center;
-   }
-   /* form */
-   #contact label {
+   } */
+
+   /* form */ 
+   /* #contact label {
       float: none;
       width: 100%;
    }
@@ -211,7 +213,7 @@
    #message-warning, #message-success {
       width: 100%;
       margin-left: 0;
-   }
+   } */
 
 
    /* footer */
