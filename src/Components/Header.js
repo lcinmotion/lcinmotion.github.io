@@ -23,7 +23,6 @@ class Header extends Component {
 
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
 
       </nav>
@@ -38,10 +37,6 @@ class Header extends Component {
             </ul>
          </div>
       </div>
-
-      <p className="scrolldown">
-         <a className="smoothscroll" href="#contact"><i className="icon-down-circle"></i></a>
-      </p>
 
    </header>
     );
