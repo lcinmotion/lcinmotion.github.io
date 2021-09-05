@@ -78,7 +78,7 @@ header .social {
 }
 header .social li {
    display: inline-block;
-   margin: 0 15px;
+   margin: 0 30px;
    padding: 0;
 }
 header .social li a { color: #fff; }
