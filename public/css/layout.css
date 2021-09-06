@@ -7,7 +7,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(../images/header-background.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -37,7 +37,7 @@ header .banner-background {
    height: 100%;
    width: 100%;
    top: 0;
-   background-color: rgba(45, 45, 45, 0.44);
+   background-color: rgba(55, 55, 55, 0.38);
 }
 
 header .banner-text { 
@@ -45,23 +45,23 @@ header .banner-text {
  }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
-   color: #b76e45;
+   color: #ffffff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
-   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.99);
 }
+
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
+   font: 18px/1.9em 'opensans-regular', serif;
    color: #ffffff;
    margin: 0 auto;
    width: 70%;
-   text-shadow: 1px 1px 1px rgb(61, 61, 61);
 }
+
 header .banner-text h3 span,
 header .banner-text h3 a {
    color: #c2c2c2;
-   text-shadow: 1px 1px 1px #030303;
 }
+
 header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;

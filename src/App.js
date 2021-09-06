@@ -3,7 +3,6 @@ import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
 import Header from './Components/Header';
-//import Footer from './Components/Footer';
 
 class App extends Component {
 
@@ -42,7 +41,6 @@ class App extends Component {
     return (
       <div className="App">
         <Header data={this.state.siteData.main}/>
-        {/* <Footer data={this.state.siteData.main}/> */}
       </div>
     );
   }
