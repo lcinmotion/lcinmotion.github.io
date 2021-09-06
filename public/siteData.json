@@ -1,12 +1,5 @@
 {
   "main": {
-    "name": "Lauren",
-    "occupation": "Systems Architect",
-    "description": "with a passion for creative hobbies and the outdoors",
-    "image": "profilepic.jpg",
-    "address": {
-      "city": "PNW"
-    },
     "website": "http://lcinmoton.github.io",
     "social": [
       {
